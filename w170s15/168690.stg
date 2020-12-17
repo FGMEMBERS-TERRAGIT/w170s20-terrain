@@ -1,0 +1,4 @@
+OBJECT_BASE 168690.btg
+OBJECT NSAS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -169.672958 -14.183724 7.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -169.667090 -14.184977 5.5 0.00
